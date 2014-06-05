@@ -5,7 +5,7 @@ plot1 <- function (info = FALSE)
   ## with a width of 480 pixels and a height of 480 pixels, in ypur
   ## working directory (getwd()).
   
-  ## Name of the plot file: plot3.png
+  ## Name of the plot file: plot1.png
   
   ## info: logical. If FALSE (default) the saved png file location is not listed.
   
